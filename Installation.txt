@@ -3,3 +3,4 @@ Steps to follow:
 2. Click on executable.
 3. Perform the steps.
 4. Valiate the Installation is successful.
+5. Check the contents of the directory in the prorgamfiles.
